@@ -1,0 +1,436 @@
+{
+    "(Athllon Dr/Drakeford Dr) to (London Cct) via Athllon Dr, Melrose Dr and Adelaide Av": {
+        "StartEndDescription": "Athllon Drive at Drakeford Drive to Commonwealth Avenue at London Circuit",
+        "Delay": 78,
+        "Id": 37,
+        "TT": 1079,
+        "Length": 16792
+    },
+    "(Barton Hwy/Gungahlin Dr) to (Barry Dr/Cooyong St) via Barton Hwy and Northbourne Av": {
+        "StartEndDescription": "Gungahlin Dr - Barry Dr / Cooyong St",
+        "Delay": 48,
+        "Id": 26,
+        "TT": 586,
+        "Length": 6135
+    },
+    "(Belconnen Wy/Bindubi St) to (Alinga St) via Belconnen Wy and Barry Dr": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - Alinga St",
+        "Delay": 79,
+        "Id": 49,
+        "TT": 579,
+        "Length": 6418
+    },
+    "(Belconnen Wy/Bindubi St) to (London Cct) via Belconnen Wy and Barry Dr": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - London Cct",
+        "Delay": 0,
+        "Id": 49,
+        "TT": 506,
+        "Length": 6711
+    },
+    "(Belconnen Wy/Bindubi St) to (London Cct) via Bindubi St, Parkes Wy and Edinburgh Av": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St / Vernon Cir - London Cct",
+        "Delay": 0,
+        "Id": 48,
+        "TT": 517,
+        "Length": 9053
+    },
+    "(Belconnen Wy/Bindubi St) to (Vernon Cir) via Bindubi St, Parkes Wy and Edinburgh Av": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - Vernon Cir",
+        "Delay": 25,
+        "Id": 48,
+        "TT": 490,
+        "Length": 8391
+    },
+    "(Belconnen Wy/Bindubi St) to (Vernon Cir) via Caswell Dr, Parkes Wy and Edinburgh Av": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - Vernon Cir",
+        "Delay": 30,
+        "Id": 50,
+        "TT": 496,
+        "Length": 8553
+    },
+    "(Canberra Av/Woods Ln) to (Coranderrk St/Parkes Wy) via Hindmarsh Dr, Monaro Hwy and Morshead Dr": {
+        "StartEndDescription": "Woods Lane (Canberra Ave) to Coranderrk St (Parkes Way)",
+        "Delay": 61,
+        "Id": 36,
+        "TT": 643,
+        "Length": 12290
+    },
+    "(Canberra Av/Woods Ln) to (London Cct) via State Cir and Commonwealth Av": {
+        "StartEndDescription": "Woods Ln - London Cct",
+        "Delay": 145,
+        "Id": 35,
+        "TT": 1096,
+        "Length": 11792
+    },
+    "(Cotter Rd/Tuggeranong Pwy) to (London Cct) via Adelaide Av": {
+        "StartEndDescription": "Cotter Rd at Tuggeranong Pwy to London Cct",
+        "Delay": 56,
+        "Id": 19,
+        "TT": 563,
+        "Length": 8990
+    },
+    "(Drakeford Dr/Athllon Dr) to (Coranderrk St/Parkes Wy) via Tuggeranong Pwy and Parkes Wy": {
+        "StartEndDescription": "Drakeford Dr / Athllon Drive - Coranderrk St",
+        "Delay": 62,
+        "Id": 34,
+        "TT": 895,
+        "Length": 18829
+    },
+    "(Gungahlin Dr/Barton Hwy) to (Northbourne Av/Cooyong St) via Gungahlin Dr, Belconnen Wy and Barry Dr": {
+        "StartEndDescription": "Barton Hwy - Northbourne Av",
+        "Delay": 59,
+        "Id": 22,
+        "TT": 601,
+        "Length": 9885
+    },
+    "(Gungahlin Dr/Sandford St) to (Cooyong St) via Ellenborough St and Northbourne Av": {
+        "StartEndDescription": "GDE/Sandford St - Barry Drive/Northbourne Ave",
+        "Delay": 60,
+        "Id": 23,
+        "TT": 708,
+        "Length": 7302
+    },
+    "(Gungahlin Dr/Sandford St) to Cooyong St/Northbourne Av) via Gungahlin Dr, Belconnen Wy and Barry Dr": {
+        "StartEndDescription": "Gungahlin Dr / Sandford St - Northbourne Av",
+        "Delay": 65,
+        "Id": 16,
+        "TT": 660,
+        "Length": 11075
+    },
+    "(Majura Pwy near Meddhung St) to (Coranderrk St/Parkes Wy) via Fairbairn Av and ANZAC Pde": {
+        "StartEndDescription": "Majura Parkway before Fairbairn Ave - Coranderrk St",
+        "Delay": 93,
+        "Id": 47,
+        "TT": 547,
+        "Length": 7689
+    },
+    "(Majura Pwy near Meddhung St) to (Coranderrk St/Parkes Wy) via Fairbairn Av and Morshead Dr": {
+        "StartEndDescription": "Majura Parkway before Fairbairn Av - Parkes Wy / Coranderrk St",
+        "Delay": 95,
+        "Id": 46,
+        "TT": 536,
+        "Length": 8202
+    },
+    "(Monaro Hwy/Hindmarsh Dr) to (Coranderrk St/Parkes Wy) via Monaro Hwy and Morshead Dr": {
+        "StartEndDescription": "Hindmarsh Dr - Coranderrk St",
+        "Delay": 30,
+        "Id": 30,
+        "TT": 430,
+        "Length": 8608
+    },
+    "(Monaro Hwy/Hindmarsh Dr) to (London Cct) via Canberra Av and Commonwealth Av": {
+        "StartEndDescription": "Hindmarsh Dr - London Cct",
+        "Delay": 91,
+        "Id": 31,
+        "TT": 792,
+        "Length": 9066
+    },
+    "(Tuggeranong Pwy (PVMS10)) to (London Cct) via Cotter Rd": {
+        "StartEndDescription": "Tuggeranong Pwy PVMS10 - London Cct/Northbourne Av",
+        "Delay": 0,
+        "Id": 51,
+        "TT": 652,
+        "Length": 11302
+    },
+    "(Tuggeranong Pwy at PVMS10) to (Coranderrk St/Parkes Wy) via Tuggeranong Pwy and Parkes Wy": {
+        "StartEndDescription": "PVMS10 - Coranderrk St",
+        "Delay": 23,
+        "Id": 45,
+        "TT": 528,
+        "Length": 11678
+    },
+    "(Tuggeranong Pwy/Cotter Rd) to (Coranderrk St/Parkes Wy) via Tuggeranong Pwy and Parkes Wy": {
+        "StartEndDescription": "Tuggeranong Pwy / Cotter Rd - Coranderrk St",
+        "Delay": 17,
+        "Id": 33,
+        "TT": 430,
+        "Length": 9366
+    },
+    "(William Hovell Dr/Drake Brockman Dr) to (Callam St/Hindmarsh Dr) via John Gorton Dr and Streeton Dr": {
+        "StartEndDescription": "Kingsford Smith /Drake Brockman - Callam /Hindmarsh",
+        "Delay": 196,
+        "Id": 44,
+        "TT": 1280,
+        "Length": 18701
+    },
+    "(William Hovell Dr/Drake Brockman Dr) to (Callam St/Hindmarsh Dr) via William Hovell Dr and Tuggeranong Pwy": {
+        "StartEndDescription": "Kingsford Smith Dr / Drake Brockman Dr - Callam St / Hindmarsh Dr",
+        "Delay": 133,
+        "Id": 43,
+        "TT": 972,
+        "Length": 18336
+    },
+    "(William Hovell Dr/Drake Brockman Dr) to (Melrose Dr/Hindmarsh Dr) via William Hovell Dr and Tuggeranong Pwy": {
+        "StartEndDescription": "Kingsford Smith Dr / Drake Brockman Dr - Callam St / Hindmarsh Dr",
+        "Delay": 0,
+        "Id": 43,
+        "TT": 802,
+        "Length": 17809
+    },
+    "(Yarra Glen/Carruthers St) to (Coronation Dr/Commonwealth Av)": {
+        "StartEndDescription": "Carruthers St - Coronation Dr",
+        "Delay": 17,
+        "Id": 32,
+        "TT": 257,
+        "Length": 5079
+    },
+    "Athllon Drive, Adelaide Avenue and Commonwealth Avenue to City": {
+        "StartEndDescription": "Athllon Drive at Drakeford Drive to Commonwealth Avenue at London Circuit",
+        "Delay": 0,
+        "Id": 21,
+        "TT": 1202,
+        "Length": 16774
+    },
+    "Athllon Drive, Adelaide Avenue and Commonwealth Avenue to City NEW": {
+        "StartEndDescription": "Athllon Drive at Drakeford Drive to Commonwealth Avenue at London Circuit",
+        "Delay": 0,
+        "Id": 37,
+        "TT": 1100,
+        "Length": 16853
+    },
+    "Barton Highway (from GDE) and Northbourne Avenue": {
+        "StartEndDescription": "GDE - Barry Drive",
+        "Delay": 0,
+        "Id": 26,
+        "TT": 693,
+        "Length": 6124
+    },
+    "Barton Highway (from GDE) and Northbourne Avenue byp set 9": {
+        "StartEndDescription": "GDE - Barry Drive",
+        "Delay": 0,
+        "Id": 26,
+        "TT": 619,
+        "Length": 6129
+    },
+    "Barton Hwy (GDE from Sandford) & NBA to City": {
+        "StartEndDescription": "GDE/Sandford St - Barry Drive/Northbourne Ave",
+        "Delay": 0,
+        "Id": 23,
+        "TT": 750,
+        "Length": 7302
+    },
+    "Barton Hwy (GDE from Sandford) & NBA to City byp. Set 13": {
+        "StartEndDescription": "GDE/Sandford St - Barry Drive/Northbourne Ave",
+        "Delay": 0,
+        "Id": 23,
+        "TT": 729,
+        "Length": 7319
+    },
+    "Belconnen Way and Barry Dr To City": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - London Cct",
+        "Delay": 78,
+        "Id": 49,
+        "TT": 544,
+        "Length": 6418
+    },
+    "Belconnen Way and Caswell Dr and Parkes Way To City": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St - Vernon Cir",
+        "Delay": 13,
+        "Id": 50,
+        "TT": 446,
+        "Length": 8553
+    },
+    "Bindubi St and Parkes Way To City": {
+        "StartEndDescription": "Eastern Valley Wy / Bindubi St / Vernon Cir - London Cct",
+        "Delay": 66,
+        "Id": 48,
+        "TT": 515,
+        "Length": 8391
+    },
+    "Canberra Av (202) Monaro Hwy Parkes Way (9989) to City": {
+        "StartEndDescription": "Woods Lane (Canberra Ave) to Coranderrk St (Parkes Way)",
+        "Delay": 0,
+        "Id": 29,
+        "TT": 665,
+        "Length": 12307
+    },
+    "Canberra Av and Monaro Hwy Parkes Way to City": {
+        "StartEndDescription": "Woods Lane (Canberra Ave) to Coranderrk St (Parkes Way)",
+        "Delay": 0,
+        "Id": 36,
+        "TT": 718,
+        "Length": 12290
+    },
+    "Canberra Ave (202) and Commonwealth Ave (1027) to City": {
+        "StartEndDescription": "Woods Lane (Canberra Ave) - Albert St (Commonwealth Ave)",
+        "Delay": 0,
+        "Id": 28,
+        "TT": 816,
+        "Length": 11076
+    },
+    "Canberra Ave and Commonwealth Ave to City": {
+        "StartEndDescription": "Woods Lane (Canberra Ave) - Albert St (Commonwealth Ave)",
+        "Delay": 0,
+        "Id": 35,
+        "TT": 1137,
+        "Length": 11792
+    },
+    "Cotter Rd, Adelaide Ave, Commonwealth Ave to City byp. Set 236": {
+        "StartEndDescription": "Cotter Road at Tuggeranong Parkway to Commonwealth Avenue at London Circuit",
+        "Delay": 0,
+        "Id": 24,
+        "TT": 574,
+        "Length": 8997
+    },
+    "Cotter Road, Adelaide Avenue and Commonwealth Avenue to City": {
+        "StartEndDescription": "Cotter Road at Tuggeranong Parkway to Commonwealth Avenue at London Circuit",
+        "Delay": 0,
+        "Id": 19,
+        "TT": 522,
+        "Length": 9006
+    },
+    "Drakeford Drive, Tuggeranong Parkway and Parkes Way to City": {
+        "StartEndDescription": "Drakeford Drive/Athllon Drive to Parkes Way/Coranderrk St",
+        "Delay": 0,
+        "Id": 20,
+        "TT": 898,
+        "Length": 18892
+    },
+    "Drakeford Drive, Tuggeranong Parkway and Parkes Way to City via Forest Drive": {
+        "StartEndDescription": "Drakeford Drive/Athllon Drive to Parkes Way/Coranderrk St",
+        "Delay": 0,
+        "Id": 34,
+        "TT": 923,
+        "Length": 18873
+    },
+    "Federal Hwy/Northbourne Av: Flemington Rd to London Cct": {
+        "StartEndDescription": "Flemington Rd-London Cct",
+        "Delay": 0,
+        "Id": 55,
+        "TT": 654,
+        "Length": 5485
+    },
+    "GDE and Belconnen Way to city": {
+        "StartEndDescription": "GDE/Sandford St - Barry Dr/Northbourne Av",
+        "Delay": 0,
+        "Id": 16,
+        "TT": 686,
+        "Length": 11070
+    },
+    "GDE/Belconnen Way/Barry Dr - Barton Hwy to Northbourne Ave byp. Set 35": {
+        "StartEndDescription": "Barton Hwy - Northbourne Ave",
+        "Delay": 0,
+        "Id": 22,
+        "TT": 580,
+        "Length": 9880
+    },
+    "Kingsford Smith /Drake Brockman Roundabout to Woden  through John Gordon Dr": {
+        "StartEndDescription": "Kingsford Smith /Drake Brockman - Callam /Hindmarsh",
+        "Delay": 161,
+        "Id": 44,
+        "TT": 1277,
+        "Length": 18718
+    },
+    "Kingsford Smith Dr / Drake Brockman Roundabout  to Woden through Tugg Prkway": {
+        "StartEndDescription": "Kingsford Smith Dr / Drake Brockman Roundabout - Callam St / Hindmarsh",
+        "Delay": 324,
+        "Id": 43,
+        "TT": 1193,
+        "Length": 18336
+    },
+    "Majura Parkway and Fairbairn Ave to City": {
+        "StartEndDescription": "Majura Parkway before Fairbairn Ave - Parksway Coranderrk Roundabout",
+        "Delay": 25,
+        "Id": 47,
+        "TT": 480,
+        "Length": 7689
+    },
+    "Majura Parkway and Morsehead Dr to City with Fairbairn detour": {
+        "StartEndDescription": "Majura Parkway before Fairbairn Ave - Parkes Way Coranderrk Roundabout",
+        "Delay": 63,
+        "Id": 46,
+        "TT": 510,
+        "Length": 8202
+    },
+    "Monaro Hwy (134) and Parkes Way (9989) to City": {
+        "StartEndDescription": "Hindmarsh Drive - Coranderrk St",
+        "Delay": 0,
+        "Id": 30,
+        "TT": 477,
+        "Length": 8689
+    },
+    "Monaro Hwy Canberra Ave and Commonwealth Ave to City": {
+        "StartEndDescription": "Hindmarsh Dr to Albert St",
+        "Delay": 0,
+        "Id": 31,
+        "TT": 602,
+        "Length": 8414
+    },
+    "Northbourne Av: London Cct to Flemington Rd": {
+        "StartEndDescription": "London Cct-Flemington Rd",
+        "Delay": 0,
+        "Id": 54,
+        "TT": 578,
+        "Length": 5440
+    },
+    "Streeton Dr to City via Tuggeranong Pwy": {
+        "StartEndDescription": "Streeton Dr - Coranderrk St",
+        "Delay": 0,
+        "Id": 52,
+        "TT": 518,
+        "Length": 10607
+    },
+    "Streeton Dr to London Cct via Cotter Rd/Adelaide Av": {
+        "StartEndDescription": "Streeton Dr - London Cct (N)",
+        "Delay": 0,
+        "Id": 53,
+        "TT": 636,
+        "Length": 10073
+    },
+    "TEST ROUTE 01": {
+        "StartEndDescription": "Spofforth - Belco",
+        "Delay": 37,
+        "Id": 38,
+        "TT": 294,
+        "Length": 4111
+    },
+    "TEST ROUTE 02": {
+        "StartEndDescription": "Belco - Spofforth",
+        "Delay": 19,
+        "Id": 39,
+        "TT": 293,
+        "Length": 4107
+    },
+    "TEST ROUTE 03": {
+        "StartEndDescription": "Johnson - Sternberg",
+        "Delay": 15,
+        "Id": 40,
+        "TT": 345,
+        "Length": 5429
+    },
+    "TEST ROUTE 04": {
+        "StartEndDescription": "Sternberg - Johnson",
+        "Delay": 0,
+        "Id": 41,
+        "TT": 403,
+        "Length": 5496
+    },
+    "Tuggeranong Parkway and Parkes Way to City": {
+        "StartEndDescription": "Tuggeranong Parkway at Cotter Rd - Parkes Way at Coranderrk St",
+        "Delay": 0,
+        "Id": 18,
+        "TT": 415,
+        "Length": 9456
+    },
+    "Tuggeranong Parkway and Parkes Way to City (PVMS)": {
+        "StartEndDescription": "PVMS10 - Coranderrk St",
+        "Delay": 17,
+        "Id": 45,
+        "TT": 537,
+        "Length": 11678
+    },
+    "Tuggeranong Parkway and Parkes Way to City via Forest Dr": {
+        "StartEndDescription": "Tuggeranong Parkway at Cotter Rd - Parkes Way at Coranderrk St",
+        "Delay": 0,
+        "Id": 33,
+        "TT": 434,
+        "Length": 9437
+    },
+    "Yarra Glen - Adelaide Avenue into State Circle": {
+        "StartEndDescription": "Carruthers St - Coronation Dr",
+        "Delay": 0,
+        "Id": 32,
+        "TT": 257,
+        "Length": 5079
+    }
+}
