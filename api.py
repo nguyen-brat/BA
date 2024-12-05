@@ -10,6 +10,7 @@ app = FastAPI()
 
 # Load pre-trained model and data mappings
 loaded_model = CatBoostRegressor()
+loaded_model.load_model("catboost_excess_delay_model.cbm")
 
 with open("dictionary_map.json", "r", encoding='utf-8') as f:
     dictionary_map = json.load(f)
@@ -54,13 +55,13 @@ def prepare_data_for_catboost(street_name):
 def predict_excess_delay(street_name: str):
     try:
         sample_data = prepare_data_for_catboost(street_name)
-        sample_data = Pool(sample_data, cat_features=keys_list)
+        pool_sample_data = Pool(sample_data, cat_features=keys_list)
         
         # Load the model (ensure path is correct)
-        loaded_model.load_model("catboost_excess_delay_model.cbm")
         
-        y_pred = loaded_model.predict(sample_data)
-        return {"street_name": street_name, "excess_delay_prediction": y_pred.tolist()[0]}
+        y_pred = loaded_model.predict(pool_sample_data).tolist()[0]
+        total_tralvel_time = sample_data["TT"].tolist()[0] + sample_data["Delay"].tolist()[0] + y_pred
+        return {"street_name": street_name, "total_tralvel_time": total_tralvel_time}
     
     except HTTPException as e:
         raise e
